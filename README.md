@@ -4,4 +4,4 @@
 
 ## Video Illustration 👇
 
-[Link to Illustration Video](https://github.com/SaadARazzaq/Canny-Edge-Detection-App/blob/main/Illustration.mp4)
+[Link to Illustration Video](https://github.com/SaadARazzaq/Canny-Edge-Detection-App/raw/main/Illustration.mp4)
