@@ -1,2 +1,7 @@
 # Canny-Edge-Detection-App
-Customize Edge Detection Instantly with Live Threshold Control ⭐
+
+**Play with the threshold values in order to get the right values.**
+
+## Video Illustration 👇
+
+[Link to Illustration Video](https://github.com/SaadARazzaq/Canny-Edge-Detection-App/blob/main/Illustration.mp4)
